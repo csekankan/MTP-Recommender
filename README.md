@@ -1,6 +1,7 @@
 # Recommender System
-**Guide to Execute Code**
-# 
+
+# Flowchart to select right model
+
 # Google Colab
 
  It is **recommanded** to run all the code in **Google Colab**.As most of the program require righ memory and GPU.Please upload the python notebook files available under [Note Book]For more tutorial related to Google colab usage follow the link: [Google Colab](https://colab.research.google.com/)
