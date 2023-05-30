@@ -10,11 +10,14 @@
 
 
 ### Flowchart to select right model
+<p>
 <img src="./images/recommendations_system.svg">
-
+</p>
+<p>
 <img src="./images/contant based method.svg">
-
+ </p>
+<p>
 <img src="./images/collaborative and hybrid.svg">
-
+</p>
 
 
